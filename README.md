@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prince Kael'thas Sunstrider's mortal descendant, James David Oriel Robert Morgenberg Dondarian Windter Winnchester, the Moonstrider.
+- 👋 This is Prince Kael'thas Sunstrider's mortal descendant, James David Oriel Robert Morgenberg Dondarian Windter Winnchester the Moonstrider.
 - 👀 I’m interested in designing and developing.
 - 🌱 I’m currently learning react and react-native.
 - 💞️ I’m looking to collaborate on web and app (ios+android) design.
