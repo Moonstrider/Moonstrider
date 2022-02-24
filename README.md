@@ -5,8 +5,9 @@
 - 📫 How to reach me , Lord give us a bit of luck, and we might...meet again, my friend.
 
 
-If these codes cannot ctrl+c ctrl+v, they are bad codes.
-If I spent 10 minutes and still cannot understand them, they are bad codes.
+- If these codes cannot ctrl+c ctrl+v, they are bad codes.
+- If I spent 10 minutes and still cannot understand them, they are bad codes.
+- I'd rather spend more time with families and friends than codes. (even I just study beside them.)
 
 <!---
 Moonstrider/Moonstrider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
